@@ -1,3 +1,5 @@
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/home/izzycious/Downloads/devre-coml.jpeg?version%3D1674759286693)
+
 # DevRel-Community-Strategy
 
 Developer Relations, or "DevRel" for short, is a field within the technology industry that focuses on building and maintaining relationships between a company and its developer community. This can include activities such as creating developer-facing documentation and tutorials, providing support and assistance to developers who are using the company's products or services, and building relationships with third-party developers who are creating integrations with the company's offerings. The goal of DevRel is to create a positive and productive relationship between the company and its developer community, which can help to drive adoption of the company's products or services and foster a sense of community and engagement among developers who are building on top of them.
