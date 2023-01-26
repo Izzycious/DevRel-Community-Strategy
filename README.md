@@ -1,4 +1,5 @@
-![Devrel-IMAGE](https://www.google.com/url?sa=i&url=http%3A%2F%2Fkaslin.rocks%2Fdevrel%2F&psig=AOvVaw0zG9fzis4tvf8TXabQWOKu&ust=1674845989173000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKj5rtT15fwCFQAAAAAdAAAAABAK)
+!
+![[Devrel-IMAGE](https://file%2B.vscode-resource.vscode-cdn.net/home/izzycious/Desktop/DevRel-Community-Strategy/devre-coml.jpeg?version%3D1674760348703)
 
 # What is DevRel
 
