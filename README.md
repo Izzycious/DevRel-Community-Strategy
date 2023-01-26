@@ -1,4 +1,3 @@
-!
 ![[Devrel-IMAGE](https://file%2B.vscode-resource.vscode-cdn.net/home/izzycious/Desktop/DevRel-Community-Strategy/devre-coml.jpeg?version%3D1674760348703)
 
 # What is DevRel
