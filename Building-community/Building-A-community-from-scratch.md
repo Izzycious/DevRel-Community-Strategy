@@ -14,15 +14,37 @@ Before building a community one must stategy one must understand the:
 
 ### Building a strategy:
 
-- Understand and highlight the goals of your product.
+- Understand and highlight the goals of your product/company.
 
-* How can community building align with the goals of the product.
+* How does the community align with the goals of the product/company.
 * If you launch work to routine your community, who in your company or group will need time to do this work well
 * If your community are important external stakeholders, who are the internal versions?
 
 ### Strategy:
 
--
+To create a strategy for community differs to the kind of product you're building the community around.
+
+There key things to take into consideration when building a community.
+
+<details>
+    <summary>1. Community</summary>
+
+</details>
+
+<details>
+    <summary>2.</summary>
+
+</details>
+
+<details>
+    <summary>3.</summary>
+
+</details>
+
+<details>
+    <summary>4.</summary>
+
+</details>
 
 <details>
     <summary>An Example of how to build a developer community from scratch using compossable finance as case study:</summary>
