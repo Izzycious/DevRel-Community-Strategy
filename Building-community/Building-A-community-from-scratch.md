@@ -46,12 +46,14 @@ There key things to take into consideration when building a community.
 <details>
     <summary>2. Early Adopter Initiative</summary>
     <p>
-    1. What is an adopter
-    2. Who the product identify as an early adopter
-    3. Launch out period
-    4. Reach out via mail or anything
-    5. Onboarding process
+    <ol>
+    <li> 1. What is an adopter</li>
+    <li> 2. Who the product identify as an early adopter</li>
+    <li> 3. Launch out period</li>
+    <li> 4. Reach out via mail or anything</li>
+    <li> 5. Onboarding process</li>
     6. 
+    <ul>
     </p>
 
 </details>
