@@ -28,11 +28,26 @@ There key things to take into consideration when building a community.
 
 <details>
     <summary>1. Community Launch Plan</summary>
+    <P>
+    1. Defining the target audience.
+    2. The need of the audience. (Painpoint, Roadblocks)
+    3. The Value and solutions the product will provide.
+    4. Community Name.(Most cases the product name).
+    5. The community value statement.
+    </p>
+
+</details>
+
+<details>
+    <summary>1. Community platform.</summary>
 
 </details>
 
 <details>
     <summary>2. Early Adopter Initiative</summary>
+    <p>
+    1.
+    </p>
 
 </details>
 
