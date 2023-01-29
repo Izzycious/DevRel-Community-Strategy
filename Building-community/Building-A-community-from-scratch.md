@@ -27,22 +27,27 @@ To create a strategy for community differs to the kind of product you're buildin
 There key things to take into consideration when building a community.
 
 <details>
-    <summary>1. Community</summary>
+    <summary>1. Community Launch Plan</summary>
 
 </details>
 
 <details>
-    <summary>2.</summary>
+    <summary>2. Early Adopter Initiative</summary>
 
 </details>
 
 <details>
-    <summary>3.</summary>
+    <summary>3. Engagement & Content Strategy</summary>
 
 </details>
 
 <details>
-    <summary>4.</summary>
+    <summary>4. Growth Strategy</summary>
+
+</details>
+
+<details>
+    <summary>5. Metrics</summary>
 
 </details>
 
