@@ -26,7 +26,7 @@ To create a strategy for community differs to the kind of product you're buildin
 
 There key things to take into consideration when building a community.
 
-<details><summary>1. Community Launch Plan</summary>
+<details><summary> Community Launching</summary>
 <P>
 
 #### The community Launch requires factors to take to consideration.
@@ -41,27 +41,26 @@ There key things to take into consideration when building a community.
 </details>
 
 <details>
-    <summary>. Community platform.</summary>
+    <summary> Community platform.</summary>
 
 </details>
 
-<details>
-    <summary>2. Early Adopter Initiative</summary>
-    <p>
-    <ol>
-        <li> 1. What is an adopter</li>
+<details><summary> Early Adopter Initiative</summary>
+<p>
+    
+1. What is an adopter
 
-        <li> 2. Who the product identify as an early adopter</li>
-        <li> 3. Launch out period</li>
-        <li> 4. Reach out via mail or anything</li>
-        <li> 5. Onboarding process</li>
-        <li> 7. BULABALU</li>
-    </ol>
-    </p>
+2. Who the product identify as an early adopter
+3. Launch out period
+4. Reach out via mail or anything
+5. Onboarding process
+6. BULABALU
+
+ </p>
 
 </details>
 
-<details><summary>3. Engagement & Content Strategy</summary>
+<details><summary> Engagement & Content Strategy</summary>
 <p>
 
 #### Thingsto consider while creating a list.
@@ -74,12 +73,12 @@ There key things to take into consideration when building a community.
 </details>
 
 <details>
-    <summary>4. Growth Strategy</summary>
+    <summary> Growth Strategy</summary>
 
 </details>
 
 <details>
-    <summary>5. Metrics</summary>
+    <summary> Metrics</summary>
 
 </details>
 
