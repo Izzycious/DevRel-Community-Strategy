@@ -54,7 +54,6 @@ There key things to take into consideration when building a community.
 3. Launch out period
 4. Reach out via mail or anything
 5. Onboarding process
-6. BULABALU
 
  </p>
 
@@ -77,8 +76,14 @@ There key things to take into consideration when building a community.
 
 </details>
 
-<details>
-    <summary> Metrics</summary>
+<details><summary> Metrics</summary>
+<p>
+
+- Page Views
+- Solutions Acepted
+- Sign up into the community
+- Likes
+</p>
 
 </details>
 
