@@ -60,6 +60,10 @@ There key things to take into consideration when building a community.
 
 <details>
     <summary>3. Engagement & Content Strategy</summary>
+    <p>
+    * Contents
+    * Rewards
+    </p>
 
 </details>
 
