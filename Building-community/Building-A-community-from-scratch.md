@@ -26,20 +26,22 @@ To create a strategy for community differs to the kind of product you're buildin
 
 There key things to take into consideration when building a community.
 
-<details>
-    <summary>1. Community Launch Plan</summary>
-    <P>
-    1. Defining the target audience.
-    2. The need of the audience. (Painpoint, Roadblocks)
-    3. The Value and solutions the product will provide.
-    4. Community Name.(Most cases the product name).
-    5. The community value statement.
-    </p>
+<details><summary>1. Community Launch Plan</summary>
+<P>
+
+#### The community Launch requires factors to take to consideration.
+
+1. Defining the target audience.
+2. The need of the audience. (Painpoint, Roadblocks)
+3. The Value and solutions the product will provide.
+4. Community Name.(Most cases the product name).
+5. The community value statement.
+</p>
 
 </details>
 
 <details>
-    <summary>1. Community platform.</summary>
+    <summary>. Community platform.</summary>
 
 </details>
 
@@ -48,6 +50,7 @@ There key things to take into consideration when building a community.
     <p>
     <ol>
         <li> 1. What is an adopter</li>
+
         <li> 2. Who the product identify as an early adopter</li>
         <li> 3. Launch out period</li>
         <li> 4. Reach out via mail or anything</li>
@@ -58,12 +61,15 @@ There key things to take into consideration when building a community.
 
 </details>
 
-<details>
-    <summary>3. Engagement & Content Strategy</summary>
-    <p>
-    * Contents
-    * Rewards
-    </p>
+<details><summary>3. Engagement & Content Strategy</summary>
+<p>
+
+#### Thingsto consider while creating a list.
+
+- Content
+- Conversations
+- Community rewards
+</p>
 
 </details>
 
