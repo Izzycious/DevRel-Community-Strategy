@@ -26,7 +26,7 @@ To create a strategy for communities differs to the kind of product you're build
 
 The key things to take into consideration when building a community.
 
-### <details><summary> Community Launching</summary>
+<details><summary> Community Launching</summary>
 
 <P>
 
@@ -41,9 +41,11 @@ The key things to take into consideration when building a community.
 
 </details>
 
-### <details><summary> Community platform.</summary>
+<details><summary> Community platform.</summary>
 
-1. what
+1. Determining the audience and what platform to engage the community
+2. Finding a simpler Social that aligns with the kind of community you're building.
+3.
 
 </details>
 
@@ -73,8 +75,10 @@ The key things to take into consideration when building a community.
 
 </details>
 
-<details>
-    <summary> Growth Strategy</summary>
+<details><summary> Growth Strategy</summary>
+<p>
+
+- Understanding the developers at early adoption a key to growth </p>
 
 </details>
 
@@ -93,11 +97,7 @@ The key things to take into consideration when building a community.
     <summary>An Example of how to build a developer community from scratch using compossable finance as case study:</summary>
 <p>
 
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
+#### A notion page highlighting how to pick up the strategy and use it on a product.
 
 </p>
 </details>
