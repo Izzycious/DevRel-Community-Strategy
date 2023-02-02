@@ -1,10 +1,10 @@
 ### Building a developer community from scratch
 
-Building a developer from scratch is dependent on the community the product is all about.
+Building a developer community from scratch is dependent on the product and how to do it adds value to developers life.
 
-I'd be providing insigts about how to build a community
+I'd be providing insights about how to build a community
 
-Before building a community one must stategy one must understand the:
+Before building a community one must understand the:
 
 - Mission and Vision of the company.
 
@@ -22,14 +22,15 @@ Before building a community one must stategy one must understand the:
 
 ### Strategy:
 
-To create a strategy for community differs to the kind of product you're building the community around.
+To create a strategy for communities differs to the kind of product you're building the community around.
 
-There key things to take into consideration when building a community.
+The key things to take into consideration when building a community.
 
-<details><summary> Community Launching</summary>
+### <details><summary> Community Launching</summary>
+
 <P>
 
-#### The community Launch requires factors to take to consideration.
+##### The community Launch requires factors to take to consideration.
 
 1. Defining the target audience.
 2. The need of the audience. (Painpoint, Roadblocks)
@@ -40,8 +41,9 @@ There key things to take into consideration when building a community.
 
 </details>
 
-<details>
-    <summary> Community platform.</summary>
+### <details><summary> Community platform.</summary>
+
+1. what
 
 </details>
 
