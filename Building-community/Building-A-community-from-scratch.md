@@ -32,7 +32,7 @@ The key things to take into consideration when building a community.
 
 ##### The community Launch requires factors to take to consideration.
 
-1. Defining the target audience.
+1. Defining the target audience:
 2. The need of the audience. (Painpoint, Roadblocks)
 3. The Value and solutions the product will provide.
 4. Community Name.(Most cases the product name).
@@ -53,7 +53,6 @@ The key things to take into consideration when building a community.
 <p>
     
 1. What is an adopter
-
 2. Who the product identify as an early adopter
 3. Launch out period
 4. Reach out via mail or anything
@@ -94,7 +93,7 @@ The key things to take into consideration when building a community.
 </details>
 
 <details>
-    <summary>An Example of how to build a developer community from scratch using compossable finance as case study:</summary>
+    <summary>An Example of how to build a developer community from scratch using https://coherent.sh/ as case study:</summary>
 <p>
 
 #### A notion page highlighting how to pick up the strategy and use it on a product.
