@@ -95,8 +95,6 @@ The key things to take into consideration when building a community.
 <details>
     <summary>An Example of how to build a developer community from scratch using https://coherent.sh/ as case study:</summary>
 <p>
-
-#### A notion page highlighting how to pick up the strategy and use it on a product.
-
+    Building coherent community from scratch on [Notion](https://circular-medicine-524.notion.site/Building-developer-community-from-scratch-5c9890a2cbf449b1bb558c5189211321).
 </p>
 </details>
