@@ -1,4 +1,4 @@
-### Building a developer community from scratch
+### Building a Developer Community
 
 Building a developer community from scratch is dependent on the product and how to do it adds value to developers life.
 
